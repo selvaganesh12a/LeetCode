@@ -1,3 +1,5 @@
+//this is the answer code to the problem number: 744 in leetCode
+
 import java.util.Scanner;
 
 public class nextGreatestLetter {
