@@ -2,6 +2,7 @@ public class findPeakElement {
 
     //https://leetcode.com/problems/find-peak-element/description/
     //this is the answer code to the problem number: 1929 in leetCode
+    
     public static int findPeakElement(int[] nums) {
         int start=0;
         int end=nums.length-1;
