@@ -15,9 +15,6 @@ class Solution {
                 pivot = i;
             }
         }
-        /*while(nums[i]<nums[i+1]){
-            i+=1;
-        }*/
         int ans = binarySearch(nums,0,pivot,target);
         if(ans==-1){
             ans = binarySearch(nums,pivot+1,nums.length-1,target);
