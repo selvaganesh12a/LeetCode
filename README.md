@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/selvaganesh12a/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/selvaganesh12a/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/selvaganesh12a/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/selvaganesh12a/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
