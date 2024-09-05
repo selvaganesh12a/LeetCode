@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/selvaganesh12a/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/selvaganesh12a/LeetCode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/selvaganesh12a/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0566-reshape-the-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/selvaganesh12a/LeetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/selvaganesh12a/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/selvaganesh12a/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/selvaganesh12a/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/selvaganesh12a/LeetCode/tree/master/0792-binary-search) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/selvaganesh12a/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -123,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
