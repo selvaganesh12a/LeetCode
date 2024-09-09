@@ -10,7 +10,6 @@ class Solution {
                 i++;
             }
         }
-        System.out.println(Arrays.toString(nums));
 
         return nums[nums.length - 1];
     }
