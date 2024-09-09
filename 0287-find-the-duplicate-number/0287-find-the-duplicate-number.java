@@ -1,6 +1,5 @@
 class Solution {
     public static int findDuplicate(int[] nums){
-        int ans = 0;
         int i = 0;
 
         while(i < nums.length){
