@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/selvaganesh12a/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/selvaganesh12a/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/selvaganesh12a/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/selvaganesh12a/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/selvaganesh12a/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/selvaganesh12a/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/selvaganesh12a/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/selvaganesh12a/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -147,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/selvaganesh12a/LeetCode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/selvaganesh12a/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/selvaganesh12a/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/selvaganesh12a/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/selvaganesh12a/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
