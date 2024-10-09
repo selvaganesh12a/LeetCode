@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/selvaganesh12a/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/selvaganesh12a/LeetCode/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
