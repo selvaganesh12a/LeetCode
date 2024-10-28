@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/selvaganesh12a/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/selvaganesh12a/LeetCode/tree/master/0792-binary-search) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/selvaganesh12a/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/selvaganesh12a/LeetCode/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/selvaganesh12a/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/selvaganesh12a/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/selvaganesh12a/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/selvaganesh12a/LeetCode/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
