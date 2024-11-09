@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/selvaganesh12a/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1137-height-checker](https://github.com/selvaganesh12a/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1217-relative-sort-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/selvaganesh12a/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/selvaganesh12a/LeetCode/tree/master/0645-set-mismatch) |
+| [1217-relative-sort-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/selvaganesh12a/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/selvaganesh12a/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -238,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/selvaganesh12a/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
