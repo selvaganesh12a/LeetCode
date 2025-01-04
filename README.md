@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh12a/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/selvaganesh12a/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/selvaganesh12a/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/selvaganesh12a/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/selvaganesh12a/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh12a/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
