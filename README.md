@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selvaganesh12a/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selvaganesh12a/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/selvaganesh12a/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/selvaganesh12a/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -300,4 +302,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/selvaganesh12a/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
