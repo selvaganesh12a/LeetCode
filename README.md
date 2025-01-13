@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0065-valid-number) |
 | [0742-to-lower-case](https://github.com/selvaganesh12a/LeetCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/selvaganesh12a/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1502-construct-k-palindrome-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh12a/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/selvaganesh12a/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh12a/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1502-construct-k-palindrome-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/selvaganesh12a/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 ## Prefix Sum
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/selvaganesh12a/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/selvaganesh12a/LeetCode/tree/master/0169-majority-element) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/selvaganesh12a/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
