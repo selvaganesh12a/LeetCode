@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/selvaganesh12a/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/selvaganesh12a/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/selvaganesh12a/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0065-valid-number) |
 | [0742-to-lower-case](https://github.com/selvaganesh12a/LeetCode/tree/master/0742-to-lower-case) |
