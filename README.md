@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/selvaganesh12a/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/selvaganesh12a/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/selvaganesh12a/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/selvaganesh12a/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/selvaganesh12a/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/selvaganesh12a/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/selvaganesh12a/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
