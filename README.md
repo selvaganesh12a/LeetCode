@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/selvaganesh12a/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3379-score-of-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/3379-score-of-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
