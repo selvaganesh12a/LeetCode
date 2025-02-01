@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selvaganesh12a/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/selvaganesh12a/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
