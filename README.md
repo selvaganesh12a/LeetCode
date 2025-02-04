@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/selvaganesh12a/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/selvaganesh12a/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2235-capitalize-the-title](https://github.com/selvaganesh12a/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/selvaganesh12a/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/selvaganesh12a/LeetCode/tree/master/2406-decode-the-message) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
