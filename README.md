@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/selvaganesh12a/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/selvaganesh12a/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1572-subrectangle-queries](https://github.com/selvaganesh12a/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/selvaganesh12a/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1572-subrectangle-queries](https://github.com/selvaganesh12a/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/selvaganesh12a/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/selvaganesh12a/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -455,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selvaganesh12a/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Design
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/selvaganesh12a/LeetCode/tree/master/1572-subrectangle-queries) |
 <!---LeetCode Topics End-->
