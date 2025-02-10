@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/selvaganesh12a/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/selvaganesh12a/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3447-clear-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3567-convert-date-to-binary](https://github.com/selvaganesh12a/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/selvaganesh12a/LeetCode/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/selvaganesh12a/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
 | ------- |
