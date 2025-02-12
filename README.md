@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/selvaganesh12a/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/selvaganesh12a/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/selvaganesh12a/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/selvaganesh12a/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/selvaganesh12a/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/selvaganesh12a/LeetCode/tree/master/2406-decode-the-message) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/selvaganesh12a/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/selvaganesh12a/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
