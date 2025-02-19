@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh12a/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/selvaganesh12a/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1260-day-of-the-year](https://github.com/selvaganesh12a/LeetCode/tree/master/1260-day-of-the-year) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/selvaganesh12a/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/selvaganesh12a/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/selvaganesh12a/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0961-long-pressed-name](https://github.com/selvaganesh12a/LeetCode/tree/master/0961-long-pressed-name) |
 | [1205-defanging-an-ip-address](https://github.com/selvaganesh12a/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1260-day-of-the-year](https://github.com/selvaganesh12a/LeetCode/tree/master/1260-day-of-the-year) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/selvaganesh12a/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1502-construct-k-palindrome-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
