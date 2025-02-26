@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/selvaganesh12a/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/selvaganesh12a/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selvaganesh12a/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selvaganesh12a/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/selvaganesh12a/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/selvaganesh12a/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/selvaganesh12a/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/selvaganesh12a/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selvaganesh12a/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Dynamic Programming
