@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/selvaganesh12a/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/selvaganesh12a/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/selvaganesh12a/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/selvaganesh12a/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/selvaganesh12a/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/selvaganesh12a/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selvaganesh12a/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Dynamic Programming
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/selvaganesh12a/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/selvaganesh12a/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2406-decode-the-message](https://github.com/selvaganesh12a/LeetCode/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selvaganesh12a/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
