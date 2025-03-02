@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/selvaganesh12a/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/selvaganesh12a/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/selvaganesh12a/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/selvaganesh12a/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/selvaganesh12a/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/selvaganesh12a/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/selvaganesh12a/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -585,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/selvaganesh12a/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/selvaganesh12a/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
