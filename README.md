@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/selvaganesh12a/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/selvaganesh12a/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3778-transform-array-by-parity](https://github.com/selvaganesh12a/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/selvaganesh12a/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3778-transform-array-by-parity](https://github.com/selvaganesh12a/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selvaganesh12a/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/selvaganesh12a/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3778-transform-array-by-parity](https://github.com/selvaganesh12a/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
