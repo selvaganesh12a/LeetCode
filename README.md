@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/selvaganesh12a/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3312-number-of-changing-keys](https://github.com/selvaganesh12a/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/3447-clear-digits) |
