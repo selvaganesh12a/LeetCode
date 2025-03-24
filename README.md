@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selvaganesh12a/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvaganesh12a/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/selvaganesh12a/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2659-number-of-even-and-odd-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
