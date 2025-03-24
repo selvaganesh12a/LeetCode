@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/selvaganesh12a/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/selvaganesh12a/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/selvaganesh12a/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/selvaganesh12a/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/selvaganesh12a/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1572-subrectangle-queries](https://github.com/selvaganesh12a/LeetCode/tree/master/1572-subrectangle-queries) |
 ## Data Stream
