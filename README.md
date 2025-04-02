@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/selvaganesh12a/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/selvaganesh12a/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/selvaganesh12a/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/selvaganesh12a/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/selvaganesh12a/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/selvaganesh12a/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/selvaganesh12a/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/selvaganesh12a/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0875-longest-mountain-in-array) |
