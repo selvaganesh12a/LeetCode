@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3034-points-that-intersect-with-cars](https://github.com/selvaganesh12a/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/selvaganesh12a/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/selvaganesh12a/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3034-points-that-intersect-with-cars](https://github.com/selvaganesh12a/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3311-ant-on-the-boundary](https://github.com/selvaganesh12a/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/selvaganesh12a/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/selvaganesh12a/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3034-points-that-intersect-with-cars](https://github.com/selvaganesh12a/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
