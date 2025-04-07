@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/selvaganesh12a/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/selvaganesh12a/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/selvaganesh12a/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1944-truncate-sentence](https://github.com/selvaganesh12a/LeetCode/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selvaganesh12a/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/selvaganesh12a/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/selvaganesh12a/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/selvaganesh12a/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/selvaganesh12a/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selvaganesh12a/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/selvaganesh12a/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -731,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Geometry
+|  |
+| ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/selvaganesh12a/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
