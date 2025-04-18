@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/selvaganesh12a/LeetCode/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/selvaganesh12a/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0817-design-hashmap](https://github.com/selvaganesh12a/LeetCode/tree/master/0817-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/selvaganesh12a/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/selvaganesh12a/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/selvaganesh12a/LeetCode/tree/master/0807-custom-sort-string) |
+| [0817-design-hashmap](https://github.com/selvaganesh12a/LeetCode/tree/master/0817-design-hashmap) |
 | [1039-find-the-town-judge](https://github.com/selvaganesh12a/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1217-relative-sort-array) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/selvaganesh12a/LeetCode/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
@@ -733,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/selvaganesh12a/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0817-design-hashmap](https://github.com/selvaganesh12a/LeetCode/tree/master/0817-design-hashmap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1572-subrectangle-queries](https://github.com/selvaganesh12a/LeetCode/tree/master/1572-subrectangle-queries) |
 ## Data Stream
@@ -781,4 +785,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/selvaganesh12a/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/selvaganesh12a/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
