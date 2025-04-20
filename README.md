@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/selvaganesh12a/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [0978-valid-mountain-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/selvaganesh12a/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh12a/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
