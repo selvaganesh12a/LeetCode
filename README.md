@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/selvaganesh12a/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/selvaganesh12a/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1253-sort-the-matrix-diagonally](https://github.com/selvaganesh12a/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selvaganesh12a/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0898-transpose-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/selvaganesh12a/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1572-subrectangle-queries](https://github.com/selvaganesh12a/LeetCode/tree/master/1572-subrectangle-queries) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/selvaganesh12a/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1217-relative-sort-array) |
+| [1253-sort-the-matrix-diagonally](https://github.com/selvaganesh12a/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
