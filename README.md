@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/selvaganesh12a/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1253-sort-the-matrix-diagonally](https://github.com/selvaganesh12a/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1310-watering-plants](https://github.com/selvaganesh12a/LeetCode/tree/master/1310-watering-plants) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selvaganesh12a/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/selvaganesh12a/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0898-transpose-matrix) |
+| [1310-watering-plants](https://github.com/selvaganesh12a/LeetCode/tree/master/1310-watering-plants) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/selvaganesh12a/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/selvaganesh12a/LeetCode/tree/master/1525-queries-on-a-permutation-with-key) |
