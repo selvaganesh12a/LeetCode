@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/selvaganesh12a/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/selvaganesh12a/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2386-min-max-game](https://github.com/selvaganesh12a/LeetCode/tree/master/2386-min-max-game) |
+| [2470-removing-stars-from-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/selvaganesh12a/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/selvaganesh12a/LeetCode/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/selvaganesh12a/LeetCode/tree/master/2406-decode-the-message) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/selvaganesh12a/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2470-removing-stars-from-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/selvaganesh12a/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/selvaganesh12a/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/selvaganesh12a/LeetCode/tree/master/0042-trapping-rain-water) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selvaganesh12a/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/selvaganesh12a/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
