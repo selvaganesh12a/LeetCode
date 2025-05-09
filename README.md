@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/selvaganesh12a/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/selvaganesh12a/LeetCode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/selvaganesh12a/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1552-build-an-array-with-stack-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1572-subrectangle-queries](https://github.com/selvaganesh12a/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/selvaganesh12a/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/selvaganesh12a/LeetCode/tree/master/1525-queries-on-a-permutation-with-key) |
+| [1552-build-an-array-with-stack-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selvaganesh12a/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/selvaganesh12a/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/selvaganesh12a/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/selvaganesh12a/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1552-build-an-array-with-stack-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selvaganesh12a/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/selvaganesh12a/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2470-removing-stars-from-a-string) |
