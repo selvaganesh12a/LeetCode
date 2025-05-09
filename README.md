@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh12a/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/selvaganesh12a/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1803-average-waiting-time](https://github.com/selvaganesh12a/LeetCode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/selvaganesh12a/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/selvaganesh12a/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/selvaganesh12a/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/selvaganesh12a/LeetCode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1552-build-an-array-with-stack-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1803-average-waiting-time](https://github.com/selvaganesh12a/LeetCode/tree/master/1803-average-waiting-time) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selvaganesh12a/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/selvaganesh12a/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2058-concatenation-of-array) |
