@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/selvaganesh12a/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/selvaganesh12a/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/selvaganesh12a/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/selvaganesh12a/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/selvaganesh12a/LeetCode/tree/master/0441-arranging-coins) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/selvaganesh12a/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/selvaganesh12a/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/selvaganesh12a/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
@@ -854,5 +856,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/selvaganesh12a/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
