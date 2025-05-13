@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/selvaganesh12a/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/selvaganesh12a/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/selvaganesh12a/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/selvaganesh12a/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/selvaganesh12a/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/selvaganesh12a/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/selvaganesh12a/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
