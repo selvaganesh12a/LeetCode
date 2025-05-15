@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/selvaganesh12a/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/selvaganesh12a/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/selvaganesh12a/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/selvaganesh12a/LeetCode/tree/master/0326-power-of-three) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/selvaganesh12a/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/selvaganesh12a/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/selvaganesh12a/LeetCode/tree/master/0342-power-of-four) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/selvaganesh12a/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/selvaganesh12a/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/selvaganesh12a/LeetCode/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
