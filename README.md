@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/selvaganesh12a/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/selvaganesh12a/LeetCode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0795-k-th-symbol-in-grammar](https://github.com/selvaganesh12a/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh12a/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/selvaganesh12a/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1260-day-of-the-year](https://github.com/selvaganesh12a/LeetCode/tree/master/1260-day-of-the-year) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/selvaganesh12a/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/selvaganesh12a/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/selvaganesh12a/LeetCode/tree/master/0645-set-mismatch) |
+| [0795-k-th-symbol-in-grammar](https://github.com/selvaganesh12a/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/selvaganesh12a/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/selvaganesh12a/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/selvaganesh12a/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/selvaganesh12a/LeetCode/tree/master/0342-power-of-four) |
+| [0795-k-th-symbol-in-grammar](https://github.com/selvaganesh12a/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
