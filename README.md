@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/selvaganesh12a/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/selvaganesh12a/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/selvaganesh12a/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/selvaganesh12a/LeetCode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
