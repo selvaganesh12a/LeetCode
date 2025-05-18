@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/selvaganesh12a/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/selvaganesh12a/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/selvaganesh12a/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/selvaganesh12a/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/selvaganesh12a/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/selvaganesh12a/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/selvaganesh12a/LeetCode/tree/master/3540-hash-divided-string) |
 | [3567-convert-date-to-binary](https://github.com/selvaganesh12a/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1086-divisor-game](https://github.com/selvaganesh12a/LeetCode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/selvaganesh12a/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [3462-vowels-game-in-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1086-divisor-game](https://github.com/selvaganesh12a/LeetCode/tree/master/1086-divisor-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/selvaganesh12a/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3462-vowels-game-in-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
 | ------- |
