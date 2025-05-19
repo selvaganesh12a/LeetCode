@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/selvaganesh12a/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3830-find-closest-person](https://github.com/selvaganesh12a/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/selvaganesh12a/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
