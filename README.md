@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/selvaganesh12a/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/selvaganesh12a/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/selvaganesh12a/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/selvaganesh12a/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2401-count-asterisks](https://github.com/selvaganesh12a/LeetCode/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/selvaganesh12a/LeetCode/tree/master/2406-decode-the-message) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/selvaganesh12a/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
