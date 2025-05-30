@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/selvaganesh12a/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/selvaganesh12a/LeetCode/tree/master/3312-number-of-changing-keys) |
