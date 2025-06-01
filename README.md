@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/selvaganesh12a/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/selvaganesh12a/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1542-consecutive-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1651-shuffle-string) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selvaganesh12a/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/selvaganesh12a/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/selvaganesh12a/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/selvaganesh12a/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
