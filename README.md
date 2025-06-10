@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/selvaganesh12a/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/selvaganesh12a/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2228-watering-plants-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/selvaganesh12a/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0817-design-hashmap](https://github.com/selvaganesh12a/LeetCode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
