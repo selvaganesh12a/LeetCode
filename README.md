@@ -899,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/selvaganesh12a/LeetCode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/selvaganesh12a/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/selvaganesh12a/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/selvaganesh12a/LeetCode/tree/master/0342-power-of-four) |
