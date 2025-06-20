@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/selvaganesh12a/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/selvaganesh12a/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3311-ant-on-the-boundary](https://github.com/selvaganesh12a/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/selvaganesh12a/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/selvaganesh12a/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/selvaganesh12a/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/selvaganesh12a/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/selvaganesh12a/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/selvaganesh12a/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
