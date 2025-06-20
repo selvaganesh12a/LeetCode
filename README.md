@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/selvaganesh12a/LeetCode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/selvaganesh12a/LeetCode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/selvaganesh12a/LeetCode/tree/master/0792-binary-search) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/selvaganesh12a/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/selvaganesh12a/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0898-transpose-matrix) |
 | [1310-watering-plants](https://github.com/selvaganesh12a/LeetCode/tree/master/1310-watering-plants) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/selvaganesh12a/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/selvaganesh12a/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/selvaganesh12a/LeetCode/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selvaganesh12a/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/selvaganesh12a/LeetCode/tree/master/2128-reverse-prefix-of-word) |
