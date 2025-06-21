@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/selvaganesh12a/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1542-consecutive-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/selvaganesh12a/LeetCode/tree/master/1666-make-the-string-great) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh12a/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/selvaganesh12a/LeetCode/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1666-make-the-string-great](https://github.com/selvaganesh12a/LeetCode/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/selvaganesh12a/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/selvaganesh12a/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
