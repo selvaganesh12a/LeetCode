@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/selvaganesh12a/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/selvaganesh12a/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/selvaganesh12a/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/selvaganesh12a/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/selvaganesh12a/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/selvaganesh12a/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/selvaganesh12a/LeetCode/tree/master/0344-reverse-string) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/selvaganesh12a/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/selvaganesh12a/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/selvaganesh12a/LeetCode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/selvaganesh12a/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/selvaganesh12a/LeetCode/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/selvaganesh12a/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
