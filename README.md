@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selvaganesh12a/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/selvaganesh12a/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/selvaganesh12a/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/selvaganesh12a/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/selvaganesh12a/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/selvaganesh12a/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/selvaganesh12a/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/selvaganesh12a/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/selvaganesh12a/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/selvaganesh12a/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3311-ant-on-the-boundary](https://github.com/selvaganesh12a/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/selvaganesh12a/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/selvaganesh12a/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
