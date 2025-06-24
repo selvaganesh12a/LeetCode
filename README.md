@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/selvaganesh12a/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/selvaganesh12a/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/selvaganesh12a/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1572-subrectangle-queries](https://github.com/selvaganesh12a/LeetCode/tree/master/1572-subrectangle-queries) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/selvaganesh12a/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -815,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/selvaganesh12a/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/selvaganesh12a/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/selvaganesh12a/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
