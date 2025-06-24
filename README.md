@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/selvaganesh12a/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2386-min-max-game](https://github.com/selvaganesh12a/LeetCode/tree/master/2386-min-max-game) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvaganesh12a/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/selvaganesh12a/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selvaganesh12a/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/selvaganesh12a/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/selvaganesh12a/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2386-min-max-game](https://github.com/selvaganesh12a/LeetCode/tree/master/2386-min-max-game) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvaganesh12a/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/selvaganesh12a/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/selvaganesh12a/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvaganesh12a/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/selvaganesh12a/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/selvaganesh12a/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/selvaganesh12a/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2406-decode-the-message](https://github.com/selvaganesh12a/LeetCode/tree/master/2406-decode-the-message) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvaganesh12a/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selvaganesh12a/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/selvaganesh12a/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -701,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/selvaganesh12a/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/selvaganesh12a/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvaganesh12a/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/selvaganesh12a/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/selvaganesh12a/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -821,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/selvaganesh12a/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvaganesh12a/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/selvaganesh12a/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/selvaganesh12a/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
