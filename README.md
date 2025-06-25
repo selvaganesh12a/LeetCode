@@ -1000,4 +1000,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/selvaganesh12a/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/selvaganesh12a/LeetCode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
