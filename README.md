@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/selvaganesh12a/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/selvaganesh12a/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1044-find-common-characters) |
+| [1127-last-stone-weight](https://github.com/selvaganesh12a/LeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/selvaganesh12a/LeetCode/tree/master/1137-height-checker) |
 | [1206-corporate-flight-bookings](https://github.com/selvaganesh12a/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1217-relative-sort-array) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/selvaganesh12a/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/selvaganesh12a/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1127-last-stone-weight](https://github.com/selvaganesh12a/LeetCode/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvaganesh12a/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
