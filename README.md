@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/selvaganesh12a/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/selvaganesh12a/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/selvaganesh12a/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/selvaganesh12a/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/selvaganesh12a/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/selvaganesh12a/LeetCode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1656-count-good-triplets](https://github.com/selvaganesh12a/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selvaganesh12a/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvaganesh12a/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/selvaganesh12a/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
