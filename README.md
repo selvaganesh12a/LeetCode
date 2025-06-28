@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1310-watering-plants](https://github.com/selvaganesh12a/LeetCode/tree/master/1310-watering-plants) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selvaganesh12a/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/selvaganesh12a/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selvaganesh12a/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
