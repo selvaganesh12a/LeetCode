@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/selvaganesh12a/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/selvaganesh12a/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/selvaganesh12a/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/selvaganesh12a/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/selvaganesh12a/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/selvaganesh12a/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/selvaganesh12a/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/selvaganesh12a/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/selvaganesh12a/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
