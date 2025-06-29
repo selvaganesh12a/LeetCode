@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/selvaganesh12a/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/selvaganesh12a/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/selvaganesh12a/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/selvaganesh12a/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/selvaganesh12a/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/selvaganesh12a/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/selvaganesh12a/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
