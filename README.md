@@ -1016,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/selvaganesh12a/LeetCode/tree/master/0175-combine-two-tables) |
 | [0627-swap-salary](https://github.com/selvaganesh12a/LeetCode/tree/master/0627-swap-salary) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/selvaganesh12a/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
