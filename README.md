@@ -1018,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/selvaganesh12a/LeetCode/tree/master/0175-combine-two-tables) |
 | [0627-swap-salary](https://github.com/selvaganesh12a/LeetCode/tree/master/0627-swap-salary) |
+| [1258-article-views-i](https://github.com/selvaganesh12a/LeetCode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/selvaganesh12a/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [2041-the-latest-login-in-2020](https://github.com/selvaganesh12a/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
