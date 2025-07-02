@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/selvaganesh12a/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/selvaganesh12a/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/selvaganesh12a/LeetCode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/selvaganesh12a/LeetCode/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1542-consecutive-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1542-consecutive-characters) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/selvaganesh12a/LeetCode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/selvaganesh12a/LeetCode/tree/master/0216-combination-sum-iii) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/selvaganesh12a/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selvaganesh12a/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvaganesh12a/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/selvaganesh12a/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
