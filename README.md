@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/selvaganesh12a/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/selvaganesh12a/LeetCode/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/selvaganesh12a/LeetCode/tree/master/1260-day-of-the-year) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/selvaganesh12a/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/selvaganesh12a/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/selvaganesh12a/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/selvaganesh12a/LeetCode/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/selvaganesh12a/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0861-flipping-an-image) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/selvaganesh12a/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/selvaganesh12a/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/selvaganesh12a/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/selvaganesh12a/LeetCode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/selvaganesh12a/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/selvaganesh12a/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1359-circular-permutation-in-binary-representation](https://github.com/selvaganesh12a/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/selvaganesh12a/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selvaganesh12a/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/selvaganesh12a/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
