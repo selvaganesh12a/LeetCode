@@ -1047,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/selvaganesh12a/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1054,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/selvaganesh12a/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/selvaganesh12a/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1072,5 +1075,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 <!---LeetCode Topics End-->
