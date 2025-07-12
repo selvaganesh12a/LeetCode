@@ -19,29 +19,27 @@ class Solution {
     public TreeNode increasingBST(TreeNode root) {
         TreeNode temp = new TreeNode();
         this.ans = temp;
-        s(root);
+        solve(root);
         return temp.right;
     }
 
-    // public void solve(TreeNode root, TreeNode ans) {
-    //     if(root == null) return;
-    //     if(ans == null)
-    //         solve(root.left,ans);
-    //     else 
-    //         solve(root.left,ans.right);
-    //     System.out.println(root.val);
-    //     if(root == null) return;
-    //     ans.right = new TreeNode(root.val);
-    //     solve(root.right,ans.right);
-    // }
-
-    public void s(TreeNode r) {
-        if (r == null)
-            return;
-        s(r.left);
-        ans.right = r;
-        ans = ans.right;
+    public void solve(TreeNode root) {
+        if(root == null) return;
+        solve(root.left);
+        //System.out.println(root.val);
+        ans.right = new TreeNode(root.val);
         ans.left = null;
-        s(r.right);
+        ans = ans.right;
+        solve(root.right);
     }
+
+    // public void s(TreeNode r) {
+    //     if (r == null)
+    //         return;
+    //     s(r.left);
+    //     ans.right = r;
+    //     ans = ans.right;
+    //     ans.left = null;
+    //     s(r.right);
+    // }
 }
