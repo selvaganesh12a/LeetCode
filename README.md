@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/selvaganesh12a/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/selvaganesh12a/LeetCode/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/selvaganesh12a/LeetCode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/selvaganesh12a/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/selvaganesh12a/LeetCode/tree/master/3447-clear-digits) |
