@@ -1070,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/selvaganesh12a/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/selvaganesh12a/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/selvaganesh12a/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/selvaganesh12a/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -1124,4 +1127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/selvaganesh12a/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
