@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/selvaganesh12a/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/selvaganesh12a/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/selvaganesh12a/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/selvaganesh12a/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/selvaganesh12a/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/selvaganesh12a/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/selvaganesh12a/LeetCode/tree/master/0069-sqrtx) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/selvaganesh12a/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/selvaganesh12a/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/selvaganesh12a/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/selvaganesh12a/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/selvaganesh12a/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/selvaganesh12a/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -948,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/selvaganesh12a/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/selvaganesh12a/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/selvaganesh12a/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
