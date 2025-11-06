@@ -1105,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/selvaganesh12a/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1164,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/selvaganesh12a/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1178,4 +1180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/selvaganesh12a/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/selvaganesh12a/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
