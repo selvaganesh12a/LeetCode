@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/selvaganesh12a/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1217-relative-sort-array) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/selvaganesh12a/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/selvaganesh12a/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/selvaganesh12a/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/selvaganesh12a/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/selvaganesh12a/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/selvaganesh12a/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/selvaganesh12a/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/selvaganesh12a/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/selvaganesh12a/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/selvaganesh12a/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -1155,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/selvaganesh12a/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/selvaganesh12a/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/selvaganesh12a/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1171,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/selvaganesh12a/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/selvaganesh12a/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/selvaganesh12a/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/selvaganesh12a/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
