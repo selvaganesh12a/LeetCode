@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/selvaganesh12a/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/selvaganesh12a/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/selvaganesh12a/LeetCode/tree/master/1044-find-common-characters) |
+| [1095-find-in-mountain-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1127-last-stone-weight](https://github.com/selvaganesh12a/LeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/selvaganesh12a/LeetCode/tree/master/1137-height-checker) |
 | [1206-corporate-flight-bookings](https://github.com/selvaganesh12a/LeetCode/tree/master/1206-corporate-flight-bookings) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/selvaganesh12a/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/selvaganesh12a/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/selvaganesh12a/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/selvaganesh12a/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/selvaganesh12a/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -1181,4 +1183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/selvaganesh12a/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/selvaganesh12a/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/selvaganesh12a/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
